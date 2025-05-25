@@ -1,1 +1,1 @@
-   # 8192-GAME MADE By ANUP    
+   # 8192-GAME MADE BY ANUP    
