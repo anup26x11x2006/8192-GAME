@@ -1,4 +1,4 @@
-# 🚀 8192 Game 
+# 🚀 8192 Game  
 
 A modern implementation of the classic **8192 puzzle game**, an advanced version of 2048 where players merge tiles strategically to reach the 8192 tile.
 
